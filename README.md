@@ -1,2 +1,2 @@
 # SDC_OneTrack
-a new project reposi
+a new project repository
